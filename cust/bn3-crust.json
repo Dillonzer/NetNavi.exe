@@ -1,0 +1,352 @@
+[
+  {
+    "Part": "SprArmor",
+    "Effect": "MegaMan cannot be flinched.",
+    "Bug": "Forced Movement",
+    "Location": "Red: Guts Style LV2",
+    "Compression": "↑ → ↑ R ↑ ↓"
+  },
+  {
+    "Part": "BrakBust",
+    "Effect": "Normal buster shot pierce guards!",
+    "Bug": "Weakened Buster",
+    "Location": "Red: Guts Style LV3",
+    "Compression": "R A B ↓ L L"
+  },
+  {
+    "Part": "BrakChrg",
+    "Effect": "Charge shot pierce guards!",
+    "Bug": "Modified Shot",
+    "Location": "Orange: NCP at DNN LobbyRed: Guts Style LV4",
+    "Compression": "B A ← L ↑ B"
+  },
+  {
+    "Part": "SetGreen",
+    "Effect": "When the battle starts, all normal panels become grass panels.",
+    "Bug": "Battle Panel Change",
+    "Location": "Green:  Ground Style LV2",
+    "Compression": "↓ R R ↓ B ←"
+  },
+  {
+    "Part": "SetIce",
+    "Effect": "When the battle starts, all normal panels become ice panels.",
+    "Bug": "Battle Panel Change",
+    "Location": "Green:  Ground Style LV3",
+    "Compression": "A ↑ A ↑ ← R"
+  },
+  {
+    "Part": "SetLava",
+    "Effect": "When the battle starts, all normal panels become lava panels.",
+    "Bug": "Battle Panel Change",
+    "Location": "Green:  Ground Style LV4",
+    "Compression": "B → → B R A"
+  },
+  {
+    "Part": "SetSand",
+    "Effect": "When the battle starts, all normal panels become sand panels.",
+    "Bug": "Battle Panel Change",
+    "Location": "Green:  Number Trader (19878934)",
+    "Compression": "← A A B ↑ ←"
+  },
+  {
+    "Part": "SetMetal",
+    "Effect": "When the battle starts, all normal panels become metal panels.",
+    "Bug": "Battle Panel Change",
+    "Location": "Green:  Under Square (5000z)",
+    "Compression": "B R → → L L"
+  },
+  {
+    "Part": "SetHoly",
+    "Effect": "When the battle starts, all normal panels on MegaMan's side become holy panels.",
+    "Bug": "Battle Panel Change",
+    "Location": "Green:  Ground Style LV5",
+    "Compression": "A B R R ← R"
+  },
+  {
+    "Part": "Custom1",
+    "Effect": "1 more chip is available in the Custom Screen.",
+    "Bug": "Custom Screen HP Drop",
+    "Location": "Yellow: Custom Style LV3Blue: Custom Style LV2",
+    "Compression": "→ → → ↑ ← B"
+  },
+  {
+    "Part": "Custom2",
+    "Effect": "2 more chips are available in the Custom Screen.",
+    "Bug": "Custom Screen HP Drop",
+    "Location": "Blue: Custom Style LV4",
+    "Compression": "A ↓ ↑ ↓ R ↓"
+  },
+  {
+    "Part": "MegFldr1",
+    "Effect": "1 more MegaChip can be added in the folder.",
+    "Bug": "Custom Screen HP Drop",
+    "Location": "Pink: Team Style LV3Green: Team Style LV2",
+    "Compression": "→ R ↓ R L ←"
+  },
+  {
+    "Part": "MegFldr2",
+    "Effect": "2 more MegaChips can be added in the folder.",
+    "Bug": "Custom Screen HP Drop",
+    "Location": "Green: Team Style LV4",
+    "Compression": "A R ↓ ↓ → ←"
+  },
+  {
+    "Part": "Block",
+    "Effect": "Press B + Left to block and halve damage from incoming attack.",
+    "Bug": "Forced Movement",
+    "Location": "Blue: Shield Style LV2",
+    "Compression": "↓ B ↑ ↓ A ←"
+  },
+  {
+    "Part": "Shield",
+    "Effect": "Press B + Left to access a shield that block attacks.Breaking and piercing attacks go through the shield.",
+    "Bug": "Forced Movement",
+    "Location": "Blue: Shield Style LV3",
+    "Compression": "← → ↓ R ↓ R"
+  },
+  {
+    "Part": "Reflect",
+    "Effect": "Press B + Left to access a Reflector that block attacks and sends 100 damage ahead. In NetworkDuel, will cause flashing on opponent's MegaMan.",
+    "Bug": "Forced Movement",
+    "Location": "Blue: Shield Style LV4",
+    "Compression": "B ↑ A ← ← B"
+  },
+  {
+    "Part": "ShdwShoe",
+    "Effect": "MegaMan ignores Cracked and Sand panels.",
+    "Bug": "Forced Movement",
+    "Location": "Red: Shadow Style LV2",
+    "Compression": "↑ ← → L ↑ R"
+  },
+  {
+    "Part": "FlotShoe",
+    "Effect": "MegaMan ignores  Cracked, Sand, Ice, and Lava panels.",
+    "Bug": "Forced Movement",
+    "Location": "Red: Shadow Style LV3",
+    "Compression": "← ↓ ← ↓ ← L"
+  },
+  {
+    "Part": "AntiDmg",
+    "Effect": "Press B + Left to set-up an temporary AntiDamage trap, it will overwrite any existing ???? trap. There is a hidden counter of 256 frames, and for each frame the ???? AntiDamage trap is up, it will reduce that hidden counter. If the hidden counter is at 0 frames, the ???? trap will no longer defend.",
+    "Bug": "Forced Movement",
+    "Location": "Red: Shadow Style LV4",
+    "Compression": "L ← R A → ↓"
+  },
+  {
+    "Part": "Press",
+    "Effect": "Enables MegaMan to walk on narrow paths in the overworld.",
+    "Bug": "Battle HP Drop",
+    "Location": "White: Given by Higsby during the story",
+    "Compression": "---"
+  },
+  {
+    "Part": "EngyChng",
+    "Effect": "When prompted in the overworld, you can sacrifice a Fire chip to remove a tree, or sacrifice an Aqua chip to remove a fire.",
+    "Bug": "Battle HP Drop",
+    "Location": "White: Given by a Mr. Prog during the story",
+    "Compression": "---"
+  },
+  {
+    "Part": "Alpha",
+    "Effect": "Lets you see Alpha hidden in the overworld.",
+    "Bug": "Battle HP Drop",
+    "Location": "Pink: Given by Dad during the story",
+    "Compression": "---"
+  },
+  {
+    "Part": "SneakRun",
+    "Effect": "Certain random encounters based on your HP will not be encountered.",
+    "Bug": "Raised Encounter Rate",
+    "Location": "Yellow: Zoo Comp 3 BMD",
+    "Compression": "R L B ↓ ↓ ↓"
+  },
+  {
+    "Part": "OilBody",
+    "Effect": "If possible, changes all random encounters in that area into those with Fire enemies.",
+    "Bug": "Raised Encounter Rate",
+    "Location": "Yellow: Hospital Comp 1 BMD",
+    "Compression": "↑ → A A R ↑"
+  },
+  {
+    "Part": "Fish",
+    "Effect": "If possible, changes all random encounters in that area into those with Aqua enemies.",
+    "Bug": "Raised Encounter Rate",
+    "Location": "Pink: Beach Square (8000z)",
+    "Compression": "L R ↓ ↑ ← →"
+  },
+  {
+    "Part": "Battery",
+    "Effect": "If possible, changes all random encounters in that area into those with Elec enemies.",
+    "Bug": "Raised Encounter Rate",
+    "Location": "Yellow: Under Square (8000z)",
+    "Compression": "→ R → R L ←"
+  },
+  {
+    "Part": "Jungle",
+    "Effect": "If possible, changes all random encounters in that area into those with Wood enemies.",
+    "Bug": "Raised Encounter Rate",
+    "Location": "White: WWW Comp 3 BMD",
+    "Compression": "A R ← B B A"
+  },
+  {
+    "Part": "Collect",
+    "Effect": "If possible, the reward from a battle will always be a BattleChip.",
+    "Bug": "Battle Result",
+    "Location": "Pink: Wall Comp BMD (hidden behind wall at WWW base)",
+    "Compression": "B ↓ → R → →"
+  },
+  {
+    "Part": "AirShoes",
+    "Effect": "MegaMan ignores Broken and Hole panels.",
+    "Bug": "Forced Movement",
+    "Location": "White: Number Trader (23415891)",
+    "Compression": "↑ B B ↓ A R"
+  },
+  {
+    "Part": "UnderSht",
+    "Effect": "If MegaMan would hit 0 HP, he goes down to 1 instead.",
+    "Bug": "Forced Movement",
+    "Location": "White: Start with it",
+    "Compression": "← ↑ B L ← ↑"
+  },
+  {
+    "Part": "FstGauge",
+    "Effect": "The custom gauge automatically has the FastGauge effect.",
+    "Bug": "Custom Gauge",
+    "Location": "Pink: Number Trader (67918452)",
+    "Compression": "B ↓ A R ← R"
+  },
+  {
+    "Part": "Rush",
+    "Effect": "NetworkDuel only; When opponent uses an Invis or Mole chip, takes the chip away and they become paralyzed.",
+    "Bug": "Support",
+    "Location": "Yellow: Undernet 6 BugFrag Trader (100B)",
+    "Compression": "L A ↓ B B B"
+  },
+  {
+    "Part": "Beat",
+    "Effect": "NetworkDuel only; Opponent's first Mega or Giga Chip gets taken away.",
+    "Bug": "Support",
+    "Location": "White: Under Square Shop (10000z)",
+    "Compression": "A ↓ A A R A"
+  },
+  {
+    "Part": "Tango",
+    "Effect": "NetworkDuel only; If MegaMan falls into red outside of a screen dim, he obtains 300HP and a Barrier100.",
+    "Bug": "Support",
+    "Location": "Pink: Under Square Shop (10000z)",
+    "Compression": "A ↓ ← L L R"
+  },
+  {
+    "Part": "BugStop",
+    "Effect": "Removes all bugs in NaviCustomizer.",
+    "Bug": "None",
+    "Location": "White: Bug Style LV2",
+    "Compression": "B ↓ ↑ B ↓ B"
+  },
+  {
+    "Part": "Humor",
+    "Effect": "In overworld, press L. MegaMan makes jokes.",
+    "Bug": "Forced Movement",
+    "Location": "Pink: “Help with rehab” Job BBS",
+    "Compression": "↑ R A ← → →"
+  },
+  {
+    "Part": "BlckMind",
+    "Effect": "In overworld, NPCs treat MegaMan as an evil navi.",
+    "Bug": "Forced Movement",
+    "Location": "White: Given by Chaud during the story",
+    "Compression": "→ ← → ↓ R ↓"
+  },
+  {
+    "Part": "BustrMAX",
+    "Effect": "Buster's Attack, Speed, and Charge become 5.",
+    "Bug": "Auto Bug: All chips selected are used immediately. Zeta PAs are constantly used.",
+    "Location": "Pink: Undernet 6 BugFrag Trader (150BF)",
+    "Compression": "↓ A R R L ← ←"
+  },
+  {
+    "Part": "GigFldr1",
+    "Effect": "1 more GigaChip can be added in the folder.",
+    "Bug": "Auto Bug: The panel MegaMan steps off becomes a Swamp panel.",
+    "Location": "Purple: Undernet 7 BMD (after beating Bass GS)",
+    "Compression": "L ↓ A ↓ R B ↑"
+  },
+  {
+    "Part": "HubBatc",
+    "Effect": "Effects of SuperArmor, BreakBuster, BreakCharge, Custom1, MegaFolder1, Shield, FloatShoes, UnderShirt, and AirShoes.",
+    "Bug": "Auto Bug: MegaMan's HP is halved.",
+    "Location": "Orange: Secret Area 3 BMD on a hidden path",
+    "Compression": "B ← A ↓ ↓ ↑ L"
+  },
+  {
+    "Part": "DarkLcns",
+    "Effect": "Chips that need Hole to be used, can be used without it.",
+    "Bug": "Auto Bug: Lose one slot in the custom screen.",
+    "Location": "Dark: Bug Style LV3",
+    "Compression": "R L R ↓ ← B R"
+  },
+  {
+    "Part": "WeaponLV+1",
+    "Effect": "PowerAttack LV+1. Only affects Style Change PowerAttacks and not Normal Style’s ChargeShot.",
+    "Bug": "Modified Shot",
+    "Location": "White: Number Trader (41465278) Pink: Statue Comp BMD at Hades Isle Yellow: Undernet 6 BMD (FlameMan Cube)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+100",
+    "Effect": "Max HP +100!",
+    "Bug": "Battle HP Drop",
+    "Location": "White: Undernet 6 BugFrag Trader (50BF) Pink: Zoo Comp 4 BMD Yellow: DNN Van Comp",
+    "Compression": null
+  },
+  {
+    "Part": "HP+200",
+    "Effect": "Max HP +200!",
+    "Bug": "Battle HP Drop",
+    "Location": "White: --- Pink: Undernet 1 BMD (behind WWW-ID door) Yellow: Undernet 6 BugFrag Trader (80BF)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+300",
+    "Effect": "Max HP +300!",
+    "Bug": "Battle HP Drop",
+    "Location": "White: --- Pink: UnderSquare Program Dealer (20000z) Yellow: ---",
+    "Compression": null
+  },
+  {
+    "Part": "HP+500",
+    "Effect": "Max HP +500!",
+    "Bug": "Battle HP Drop",
+    "Location": "White: --- Pink: --- Yellow: Secret Area 2 BMD",
+    "Compression": null
+  },
+  {
+    "Part": "Regular+5",
+    "Effect": "Add 5MB to Regular Chip system.",
+    "Bug": "Custom Screen HP Drop",
+    "Location": "White: BeachSquare Program Dealer (5000z)Pink: --- Yellow: Undernet 6 BugFrag Trader (70BF)",
+    "Compression": null
+  },
+  {
+    "Part": "Atk+1",
+    "Effect": "MegaBuster Attack +1. Does not boost Style Change PowerAttack.",
+    "Bug": "Weakened Buster",
+    "Location": "White: BeachSquare Program Dealer (3000z) Pink: Start with it, TV Board Comp PMD at DNN Yellow: Hospital Comp 2 BMD (using HospitalCode)",
+    "Compression": null
+  },
+  {
+    "Part": "Speed+1",
+    "Effect": "MegaBuster Speed +1.",
+    "Bug": "Weakened Buster",
+    "Location": "White: Start with it, Undernet 4 BMD Pink: Undernet 6 BugFrag Trader (40BF) Yellow: Yoka Area 1 BMD",
+    "Compression": null
+  },
+  {
+    "Part": "Charge+1",
+    "Effect": "MegaBuster Charge +1.",
+    "Bug": "Weakened Buster",
+    "Location": "White: Hospital Comp 5 BMD Pink: Zoo Comp 2 BMD, Beach Area 1 BMD Yellow: BeachSquare Program Dealer (2000z)",
+    "Compression": null
+  }
+]

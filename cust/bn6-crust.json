@@ -1,0 +1,324 @@
+[
+  {
+    "Part": "SuprArmr",
+    "Effect": "MegaMan cannot be flinched.",
+    "Bug": "Movement Bug",
+    "Location": "Red: Undernet 2 Bugfrag Dealer (35 BF)",
+    "Compression": "ABLLAALRBA"
+  },
+  {
+    "Part": "Custom1",
+    "Effect": "1 more chip is available in the Custom Screen.",
+    "Bug": "Custom Bug",
+    "Location": "Blue: Green Area 1 Program Dealer (4600z)",
+    "Compression": "LBBRBAALRR"
+  },
+  {
+    "Part": "Custom2",
+    "Effect": "2 more chips are available in the Custom Screen.",
+    "Bug": "Custom Bug",
+    "Location": "White: \"Get the Bad Guy\" Request BBS Job (e-Reader job - JP)",
+    "Compression": "RALLAABRBA"
+  },
+  {
+    "Part": "MegFldr1",
+    "Effect": "1 more MegaChip can be added in the folder.",
+    "Bug": "Custom Bug",
+    "Location": "Green: Green Area 1 Program Dealer (3000z)",
+    "Compression": "ARLALALLAB"
+  },
+  {
+    "Part": "MegFldr2",
+    "Effect": "2 more MegaChips can be added in the folder.",
+    "Bug": "Custom Bug",
+    "Location": "White: \"Update Help\" Request BBS Job (e-Reader job - JP)",
+    "Compression": "LALRBLRLRA"
+  },
+  {
+    "Part": "GigFldr1",
+    "Effect": "1 more GigaChip can be added in the folder.",
+    "Bug": "Custom Bug",
+    "Location": "Red: Undernet 2 BugFrag Trader (100 BF)",
+    "Compression": "BLBRLLLABA"
+  },
+  {
+    "Part": "FstBarr",
+    "Effect": "Start battle with a Barrier (10 HP).",
+    "Bug": "Movement Bug",
+    "Location": "Blue: Aquarium Comp 2 BMD",
+    "Compression": "BBARABLARR"
+  },
+  {
+    "Part": "Shield",
+    "Effect": "Press B + Left to access a shield that block attacks.",
+    "Bug": "Movement Bug",
+    "Location": "Blue: Mr.Weather Comp 2 BMD",
+    "Compression": "RBBBAAABRL"
+  },
+  {
+    "Part": "Reflect",
+    "Effect": "Press B + Left to access a Reflector that block attacks and sends 50 damage ahead.",
+    "Bug": "Movement Bug",
+    "Location": "Green: Undernet 2 BugFrag Trader (48 BF)",
+    "Compression": "LAABRRLRLR"
+  },
+  {
+    "Part": "AntiDmg",
+    "Effect": "Press B + Left to set-up an temporary ???-less AntiDamage trap.",
+    "Bug": "Movement Bug",
+    "Location": "Green: Undernet 2 PMD",
+    "Compression": "BLALBRALBA"
+  },
+  {
+    "Part": "FlotShoe",
+    "Effect": "MegaMan ignores Cracked, Swamp, Ice, and Arrow panels.",
+    "Bug": "Panel Bug",
+    "Location": "Pink: Green Area 1 Program Dealer (3800z)",
+    "Compression": "RALABLBBRB"
+  },
+  {
+    "Part": "AirShoes",
+    "Effect": "MegaMan ignores Broken and Hole panels.",
+    "Bug": "Panel Bug",
+    "Location": "White: Underground 1 PMD",
+    "Compression": "ARBABRRBAL"
+  },
+  {
+    "Part": "UnderSht",
+    "Effect": "If MegaMan would hit 0 HP, he goes down to 1 instead.",
+    "Bug": "Movement Bug",
+    "Location": "White: Start with it",
+    "Compression": "RRALLRAABB"
+  },
+  {
+    "Part": "ChpShufl",
+    "Effect": "A Shuffle button that mixes up your Custom Screen's chips with your folder's.Tag Chips will not appear from a Shuffle unless one of the chip is already on the Custom Screen.",
+    "Bug": "Custom Bug",
+    "Location": "Green: Green Area 1 Program Dealer (6600z)",
+    "Compression": "RRABLRARLA"
+  },
+  {
+    "Part": "NumbrOpn",
+    "Effect": "Custom Screen selection becomes 10 chips.",
+    "Bug": "Custom Bug",
+    "Location": "Pink: \"Where's my Navi?\" Request BBS Job",
+    "Compression": "AAALAABLRA"
+  },
+  {
+    "Part": "SneakRun",
+    "Effect": "Based on your HP, low level random encounters will not appear..",
+    "Bug": "Encounter Bug",
+    "Location": "White: Undernet 2 BugFrag Trader (20BF)",
+    "Compression": "BBBABBAARB"
+  },
+  {
+    "Part": "OilBody",
+    "Effect": "If possible, changes all random encounters in that area into those with Fire enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Red: Fan Comp BMD",
+    "Compression": "LRABARBBLR"
+  },
+  {
+    "Part": "Fish",
+    "Effect": "If possible, changes all random encounters in that area into those with Aqua enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Blue: Sky Area 1 Normal Navi (Chapter 5)",
+    "Compression": "ARAABARRBA"
+  },
+  {
+    "Part": "Battery",
+    "Effect": "If possible, changes all random encounters in that area into those with Elec enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Yellow: Vending Machine Comp BMD",
+    "Compression": "BRBBBBBARR"
+  },
+  {
+    "Part": "Jungle",
+    "Effect": "If possible, changes all random encounters in that area into those with Wood enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Green: Security Camera Comp BMD",
+    "Compression": "ALARBRARLB"
+  },
+  {
+    "Part": "Collect",
+    "Effect": "If possible, the reward from a battle will always be a BattleChip.",
+    "Bug": "Result Bug",
+    "Location": "Pink: Undernet 2 BugFrag Dealer (62 BF)",
+    "Compression": "ALABBAAABA"
+  },
+  {
+    "Part": "Millions",
+    "Effect": "Green Mystery Datas will always give Zenny.",
+    "Bug": "Result Bug",
+    "Location": "Red: \"Can't Open Safe\" Request BBS Job",
+    "Compression": "RBARALBBBL"
+  },
+  {
+    "Part": "Humor",
+    "Effect": "In overworld, press L. MegaMan makes jokes depending on location.",
+    "Bug": "Emotion Bug",
+    "Location": "Pink: Green Area 1 Heel Navi (Chapter 5)",
+    "Compression": "LLABLBABLL"
+  },
+  {
+    "Part": "Poem",
+    "Effect": "In overworld, press L. MegaMan recites poems depending on location.",
+    "Bug": "Emotion Bug",
+    "Location": "Yellow: Punishment Room Mr.Prog in Green Town (Chapter 6)",
+    "Compression": "BABARRLLAB"
+  },
+  {
+    "Part": "SlipRunr",
+    "Effect": "In overworld, B slides MegaMan down his path instead of running.There are no random encounters while sliding.",
+    "Bug": "Panel Bug",
+    "Location": "Yellow: Complete QuizMaster Quiz (Aquarium, Chapter 5)",
+    "Compression": "ALAAALLABR"
+  },
+  {
+    "Part": "AutoHeal",
+    "Effect": "After battle, MegaMan is restored 10% of his max HP before HP+ programs.",
+    "Bug": "Panel Bug",
+    "Location": "Pink: Sky HP PMD",
+    "Compression": "BBBAABAABB"
+  },
+  {
+    "Part": "BustPack",
+    "Effect": "+3 to Buster's Attack, Speed, and Charge.",
+    "Bug": "Buster Bug",
+    "Location": "Red: Lotto Number (19790420)",
+    "Compression": "BAABBBALBA"
+  },
+  {
+    "Part": "BodyPack",
+    "Effect": "Effects of SuperArmor, UnderShirt, FloatShoes, and AirShoes.",
+    "Bug": "Movement Bug",
+    "Location": "Pink: Lotto Number (28271002)",
+    "Compression": "RLABLRLAAB"
+  },
+  {
+    "Part": "FldrPak1",
+    "Effect": "Effects of Custom1 and MegaFolder1.",
+    "Bug": "Custom Bug",
+    "Location": "Yellow: Juvenile Division Request BBS Job (e-Reader job - JP)",
+    "Compression": "ABLRRBRLBA"
+  },
+  {
+    "Part": "FldrPak2",
+    "Effect": "Effects of Custom2 and MegaFolder2.",
+    "Bug": "Custom Bug",
+    "Location": "Pink: (JP) \"Iris' Kindness\" e-Reader Item Card, (EN) Initial prize from Virus Battler V4 (Oxygen Tank Comp, Sky Town)",
+    "Compression": "BBARBLARBL"
+  },
+  {
+    "Part": "BugStop",
+    "Effect": "Removes all bugs in NaviCustomizer.",
+    "Bug": "None",
+    "Location": "Yellow: Hear all advice at Central Area 1 NetCafe (Starts Ch.7)",
+    "Compression": "AAABRLBAAL"
+  },
+  {
+    "Part": "Rush",
+    "Effect": "NetworkDuel only; When opponent uses an Invisible chip, takes the chip away and they become paralyzed. Does not trigger if chip is used during screen-dimming cut in.",
+    "Bug": "Doesn't activate",
+    "Location": "Yellow: Lotto Number (32132348)",
+    "Compression": "RLBAABALLR"
+  },
+  {
+    "Part": "Beat",
+    "Effect": "NetworkDuel only; Opponent's first Mega or Giga Chip gets taken away. Does not trigger if chip is used during screen-dimming cut in.",
+    "Bug": "Doesn't activate",
+    "Location": "Blue: Lotto Number (70741543)",
+    "Compression": "LRBBALRABA"
+  },
+  {
+    "Part": "Tango",
+    "Effect": "NetworkDuel only; If MegaMan falls into red outside of a screen-dim, he obtains 300HP and a Barrier100.",
+    "Bug": "Doesn't activate",
+    "Location": "Green: Lotto Number (69548756)",
+    "Compression": "BRBRRABBRA"
+  },
+  {
+    "Part": "Attack+1",
+    "Effect": "MegaBuster Attack +1.",
+    "Bug": "Buster Bug",
+    "Location": "Pink: Start with it, Green Area 1 Program Dealer (2000z)\nRed: Seaside Area 2 BMD\nBlue: Pavilion Comp 3 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "Speed+1",
+    "Effect": "MegaBuster Speed +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Start with it, (JP) Undernet 3 BMD, (EN) Class 1-2 Comp BMD \nPink: Elevator Comp BMD\nGreen: Green Area 2 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "Charge+1",
+    "Effect": "MegaBuster Charge +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Heater Comp BMD, Teachers' Room Comp BMD\nBlue: Blue Navi in Aquarium Comp 1\nPink:  (JP) Graveyard 2 BMD, (EN) Graveyard BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "AttckMAX",
+    "Effect": "MegaBuster Attack becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "Red: (JP) \"Mr.Mach's Iron Fist\" e-Reader Item Card, (EN) Graveyard BMD",
+    "Compression": "LBRBABLBAL"
+  },
+  {
+    "Part": "SpeedMAX",
+    "Effect": "MegaBuster Speed becomes 5.\nDoes not boost close range buster speed.\n",
+    "Bug": "Buster Bug",
+    "Location": "Green: Lotto Number (12046210)",
+    "Compression": "AALABRALBA"
+  },
+  {
+    "Part": "ChargMAX",
+    "Effect": "MegaBuster Charge becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "Blue: Lotto Number (94305487)",
+    "Compression": "LLALLBABBB"
+  },
+  {
+    "Part": "HP+50",
+    "Effect": "Max HP +50!",
+    "Bug": "Battle HP Bug & Damage HP Bug",
+    "Location": "White: Aquarium Comp 3 BMD \nPink: Lotto Number (37889678)\nBlue: Heliport Comp BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+100",
+    "Effect": "Max HP +100!",
+    "Bug": "Battle HP Bug & Damage HP Bug",
+    "Location": "White: Lotto Number (49951337) \nPink: Green Area 1 BMD\nBlue: Sky Area 1 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+200",
+    "Effect": "Max HP +200!",
+    "Bug": "Battle HP Bug & Damage HP Bug",
+    "Location": "White: Lotto Number (24823665) Yellow: Green Area 1 Program Dealer (4200z)\nBlue: Seaside Area 1 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+300",
+    "Effect": "Max HP +300!",
+    "Bug": "Battle HP Bug & Damage HP Bug",
+    "Location": "White: (JP) Graveyard 1 BMD, (EN) Dog House Comp  \nPink: Lotto Number (49951337)\nGreen: ACDC Area BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+400",
+    "Effect": "Max HP +400!",
+    "Bug": "Battle HP Bug & Damage HP Bug",
+    "Location": "White: Principal Office Comp BMDYellow: Undernet 2 BugFrag Dealer (76 BF)\nGreen: Lotto Number (08749780)",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+500",
+    "Effect": "Max HP +500!",
+    "Bug": "Battle HP Bug & Damage HP Bug",
+    "Location": "White: Lotto Number (55031325) \nPink: (JP) Graveyard 2 PMD, (EN) Graveyard PMD, \nGreen: (JP) \"Dex's Ace Program\" e-Reader Item Card, (EN) Initial prize from Virus Battler V2 (Water Machine Comp, Seaside Town)",
+    "Compression": "---"
+  }
+]

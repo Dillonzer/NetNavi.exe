@@ -1,0 +1,331 @@
+[
+  {
+    "Part": "SprArmr",
+    "Effect": "MegaMan cannot be flinched.",
+    "Bug": "Movement Bug",
+    "Location": "Red: Oran Area 3 Program Dealer (7800z)",
+    "Compression": "RABRALLRBA"
+  },
+  {
+    "Part": "Custom1",
+    "Effect": "1 more chip is available in the Custom Screen.",
+    "Bug": "Custom Bug",
+    "Location": "Blue: SciLab 1 Area BMD, Undernet 3 Program Dealer (5500z)",
+    "Compression": "AARLBABALB"
+  },
+  {
+    "Part": "Custom2",
+    "Effect": "2 more chips are available in the Custom Screen.",
+    "Bug": "Custom Bug",
+    "Location": "Blue: Lotto Number (15595587)",
+    "Compression": "BARLLRALBR"
+  },
+  {
+    "Part": "MegFldr1",
+    "Effect": "1 more MegaChip can be added in the folder.",
+    "Bug": "Custom Bug",
+    "Location": "Green: Oran Area 3 Program Dealer (4700z), SciLab Area 4 BMD",
+    "Compression": "BBABBRRLAR"
+  },
+  {
+    "Part": "MegFldr2",
+    "Effect": "2 more MegaChips can be added in the folder.",
+    "Bug": "Custom Bug",
+    "Location": "Green: Lotto Number (97513648)",
+    "Compression": "LABBLBAALL"
+  },
+  {
+    "Part": "GigFldr1",
+    "Effect": "1 more GigaChip can be added in the folder.",
+    "Bug": "Custom Bug",
+    "Location": "Red: Undernet 2 BugFrag Trader (90 BF)",
+    "Compression": "RRLBLLARBL"
+  },
+  {
+    "Part": "FstBarr",
+    "Effect": "Start battle with a Barrier (10 HP).",
+    "Bug": "Movement Bug",
+    "Location": "Blue: Squirrel Comp 15 BMD",
+    "Compression": "RLABBARALR"
+  },
+  {
+    "Part": "Shield",
+    "Effect": "Press B + Left to access a shield that block attacks.",
+    "Bug": "Movement Bug",
+    "Location": "Green: SciLab Area 2 BMD",
+    "Compression": "ABARALRBBA"
+  },
+  {
+    "Part": "Reflect",
+    "Effect": "Press B + Left to access a Reflector that block attacks and sends 50 damage ahead.",
+    "Bug": "Movement Bug",
+    "Location": "White: Undernet 3 Program Dealer (8700z)",
+    "Compression": "LLRBLLAALB"
+  },
+  {
+    "Part": "AntiDmg",
+    "Effect": "Press B + Left to set-up an temporary AntiDamage trap.",
+    "Bug": "Movement Bug",
+    "Location": "Red: Trade AntiDamage F to NPC in Helmet Comp.",
+    "Compression": "RBBARBRARB"
+  },
+  {
+    "Part": "FlotShoe",
+    "Effect": "MegaMan ignores Cracked, Swamp, Ice, Lava, Magnet and Water panels.",
+    "Bug": "Panel Bug",
+    "Location": "Blue: SciLab Area 3 BugFrag Trader (40 BF)",
+    "Compression": "ALLBRLAAAL"
+  },
+  {
+    "Part": "AirShoes",
+    "Effect": "MegaMan ignores Broken and Hole panels.",
+    "Bug": "Panel Bug",
+    "Location": "\nYellow: End Area 4 BMD (behind Nebula Door)",
+    "Compression": "BLBABLBBAA"
+  },
+  {
+    "Part": "UnderSht",
+    "Effect": "If MegaMan would hit 0 HP, he goes down to 1 instead.",
+    "Bug": "Movement Bug",
+    "Location": "White: Start with it",
+    "Compression": "ARBBRLRALA"
+  },
+  {
+    "Part": "SneakRun",
+    "Effect": "Certain random encounters based on your HP will not be encountered.",
+    "Bug": "Encounter Bug",
+    "Location": "Blue: Undernet 2 BugFrag Trader (20 BF)",
+    "Compression": "RLLALLBABB"
+  },
+  {
+    "Part": "OilBody",
+    "Effect": "If possible, changes all random encounters in that area into those with Fire enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Red: Factory Comp 2 BMD",
+    "Compression": "LBRARLABLB"
+  },
+  {
+    "Part": "Fish",
+    "Effect": "If possible, changes all random encounters in that area into those with Aqua enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Blue: Undernet 3 Program Dealer (4200z)",
+    "Compression": "BABALRARAA"
+  },
+  {
+    "Part": "Battery",
+    "Effect": "If possible, changes all random encounters in that area into those with Elec enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "\nYellow: Air Conditioner Comp BMD",
+    "Compression": "AABRABRLLR"
+  },
+  {
+    "Part": "Jungle",
+    "Effect": "If possible, changes all random encounters in that area into those with Wood enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Green: Undernet 3 Program Dealer (3000z)",
+    "Compression": "LRLABLBBLA"
+  },
+  {
+    "Part": "Collect",
+    "Effect": "If possible, the reward from a battle will always be a BattleChip.",
+    "Bug": "Result Bug",
+    "Location": "\nYellow: End Area 1 PMD",
+    "Compression": "BRALARBAAB"
+  },
+  {
+    "Part": "Millions",
+    "Effect": "Green Mystery Datas will always give Zenny.",
+    "Bug": "Result Bug",
+    "Location": "Green: SciLab 3 BugFrag Trader (22 BF)",
+    "Compression": "RLRARRLLLR"
+  },
+  {
+    "Part": "Humor",
+    "Effect": "In overworld, press L. MegaMan makes jokes.",
+    "Bug": "Emotion Bug",
+    "Location": "\nPink: End Area 4 Mr. Prog (Chapter 4)",
+    "Compression": "ABLARABLRL"
+  },
+  {
+    "Part": "Chivalry",
+    "Effect": "In overworld, press L. MegaMan demonstrates his deepest thoughts.",
+    "Bug": "Emotion Bug",
+    "Location": "\nYellow: Quiz King in the Oran BigMines.",
+    "Compression": "RRBBRBRBAA"
+  },
+  {
+    "Part": "AutoRun",
+    "Effect": "In overworld, MegaMan now automatically runs without the B button. Encounter rate is also reduced if B is not held.",
+    "Bug": "Panel Bug",
+    "Location": "Red: SciLab Area 3 Bugfrag Trader (8 BF)",
+    "Compression": "---"
+  },
+  {
+    "Part": "AutoHeal",
+    "Effect": "After battle, MegaMan is restored 10% of his max HP before HP+ programs.",
+    "Bug": "Panel Bug",
+    "Location": "\nPink: Oran Area 3 Program Dealer (5500z)",
+    "Compression": "RLRLRBBRAB"
+  },
+  {
+    "Part": "BustPack",
+    "Effect": "+3 to Buster's Attack, Speed, and Charge.",
+    "Bug": "Buster Bug",
+    "Location": "Blue: Lotto Number (80246758)",
+    "Compression": "LLRARLBLAR"
+  },
+  {
+    "Part": "BodyPack",
+    "Effect": "Effects of SuperArmor, UnderShirt, FloatShoes, and AirShoes.",
+    "Bug": "Movement Bug",
+    "Location": "Green: Lotto Number (30112002)",
+    "Compression": "BARABRLRRA"
+  },
+  {
+    "Part": "BugStop",
+    "Effect": "Removes all bugs in NaviCustomizer.",
+    "Bug": "None",
+    "Location": "White: Undernet 3 BugFrag Trader (13000z)",
+    "Compression": "BABLABRLRB"
+  },
+  {
+    "Part": "SoulClen",
+    "Effect": "Instead of 1, you obtain 3 Karma points for every battle can't escape 100% of the time. This is bugged, however.",
+    "Bug": "Movement Bug",
+    "Location": "White: Trade JusticeOne J in OldComp at Higsby's.",
+    "Compression": "---"
+  },
+  {
+    "Part": "Rush",
+    "Effect": "NetworkDuel only; When opponent uses an Invisible chip, takes the chip away and they become paralyzed.Does not trigger if chip is used during screen-dimming cut in.",
+    "Bug": "Doesn't activate",
+    "Location": "\nYellow: Lotto Number (09609807)",
+    "Compression": "RBLRBRLLRL"
+  },
+  {
+    "Part": "Beat",
+    "Effect": "NetworkDuel only; Opponent's first Mega or Giga Chip gets taken away.Does not trigger if chip is used during screen-dimming cut in.",
+    "Bug": "Doesn't activate",
+    "Location": "Blue: Lotto Number (79877132)",
+    "Compression": "ABBRAABRBR"
+  },
+  {
+    "Part": "Tango",
+    "Effect": "NetworkDuel only; If MegaMan falls into red outside of a screen-dim, he obtains 300HP and a Barrier100.",
+    "Bug": "Doesn't activate",
+    "Location": "Green: Lotto Number (54288793)",
+    "Compression": "LBLABLABAL"
+  },
+  {
+    "Part": "Attck+1",
+    "Effect": "MegaBuster Attack +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Ship Comp 3 BMD\nPink: Start with it\nYellow: Undernet 3 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "Speed+1",
+    "Effect": "MegaBuster Speed +1.\nDoes not boost close range buster speed.",
+    "Bug": "Buster Bug",
+    "Location": "White: Start with it\nPink: Gargoyle Comp 1 BMD\nYellow: (5DS) BN3 W-Slot - End Area Program Dealer (1500z)",
+    "Compression": "---"
+  },
+  {
+    "Part": "Charge+1",
+    "Effect": "MegaBuster Charge +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Squirrel Comp 5 BMD\nPink: (5DS) BN3 W-Slot - End Area Program Dealer (1500z)\nYellow: Drill Comp 2 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "SoulT+1",
+    "Effect": "DoubleSoul time +1.",
+    "Bug": "Emotion Bug",
+    "Location": "White: Undernet 1 BMD  \nPink: Oran Area 3 Program Dealer (3800z)\nYellow: Lotto Number (28256341)",
+    "Compression": "---"
+  },
+  {
+    "Part": "AttckMAX",
+    "Effect": "MegaBuster Attack becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "\nYellow: Lotto Number (63231870)",
+    "Compression": "LLLRRBARBL"
+  },
+  {
+    "Part": "SpeedMAX",
+    "Effect": "MegaBuster Speed becomes 5.\nDoes not boost close range buster speed.",
+    "Bug": "Buster Bug",
+    "Location": "\nPink: Lotto Number (36695497)",
+    "Compression": "RARLLRRABA"
+  },
+  {
+    "Part": "ChargMAX",
+    "Effect": "MegaBuster Charge becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "White: Lotto Number (87412146)",
+    "Compression": "ALAARBRBAR"
+  },
+  {
+    "Part": "HP+50",
+    "Effect": "Max HP +50!",
+    "Bug": "Damage HP Bug",
+    "Location": "White: Oran Area 3 Program Dealer (1300z) \nPink: NetBattle Comp BMD\nYellow: Lotto Number (31084443)",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+100",
+    "Effect": "Max HP +100!",
+    "Bug": "Damage HP Bug",
+    "Location": "White: Drill Comp 3 BMD \nYellow: Armor Comp BMD \nPink: Gargoyle Comp 2 BMD",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+200",
+    "Effect": "Max HP +200!",
+    "Bug": "Damage HP Bug",
+    "Location": "White: Oran Area 3 Program Dealer (6000z) \nPink: Lotto Number (90630807)\nYellow: ACDC Area 1 BMD (behind Nebula door)",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+300",
+    "Effect": "Max HP +300!",
+    "Bug": "Damage HP Bug",
+    "Location": "White: Lotto Number (13926561) \nPink: Lotto Number (48785625)\nYellow: Undernet 2 Bugfrag Trader (30 BF)",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+400",
+    "Effect": "Max HP +400!",
+    "Bug": "Damage HP Bug",
+    "Location": "White: Undernet 3 Program Dealer (10000z)\nYellow: Lotto Number (45654128)\nPink: Lotto Number (03419893)",
+    "Compression": "---"
+  },
+  {
+    "Part": "HP+500",
+    "Effect": "Max HP +500!",
+    "Bug": "Damage HP Bug",
+    "Location": "White: Lotto Number (72846472) \nPink: Lotto Number (50906652)\nYellow: (5DS) BN3 W-Slot - End Area Program Dealer (12000z)",
+    "Compression": "---"
+  },
+  {
+    "Part": "NavChg+1",
+    "Effect": "Adds 1 extra NaviChange chance!",
+    "Bug": "Panel Bug",
+    "Location": "\nYellow: (5DS) End Area 3 Program Dealer (9800z)",
+    "Compression": "---"
+  },
+  {
+    "Part": "NavChg+1",
+    "Effect": "Adds 2 extra NaviChange chance!",
+    "Bug": "Panel Bug",
+    "Location": "White: (5DS) Undernet 3 Program Dealer (14800z)",
+    "Compression": "---"
+  },
+  {
+    "Part": "Spport",
+    "Effect": "Enables MegaMan as NaviSupport when he is switched out.",
+    "Bug": "Movement Bug",
+    "Location": "White: (5DS) NC Machine Comp BMD",
+    "Compression": "---"
+  }
+]

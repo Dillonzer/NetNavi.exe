@@ -1,0 +1,282 @@
+[
+  {
+    "Part": "SprArmr",
+    "Effect": "MegaMan cannot be flinched.",
+    "Bug": "Player Bug",
+    "Location": "Red: Netopia Area BMD (1st) - behind Nebula Door",
+    "Compression": null
+  },
+  {
+    "Part": "Custom1",
+    "Effect": "1 more chip is available in the Custom Screen.",
+    "Bug": "Custom HP Bug",
+    "Location": "Blue: Undernet 4 BMD (1st), Castillo HP Program Dealer (9600z), Undernet 6 Program Dealer (9600z)",
+    "Compression": null
+  },
+  {
+    "Part": "Custom2",
+    "Effect": "2 more chips are available in the Custom Screen.",
+    "Bug": "Custom HP Bug",
+    "Location": "Yellow: Lotto Number (75420107)",
+    "Compression": null
+  },
+  {
+    "Part": "MegFldr1",
+    "Effect": "1 more MegaChip can be added in the folder.",
+    "Bug": "Custom HP Bug",
+    "Location": "Green: Park Area 3 BMD (1st), Castillo HP Program Dealer (8000z), Undernet 6 Program Dealer (8000z)",
+    "Compression": null
+  },
+  {
+    "Part": "MegFldr2",
+    "Effect": "2 more MegaChips can be added in the folder.",
+    "Bug": "Custom HP Bug",
+    "Location": "Green: Lotto Number (02109544)",
+    "Compression": null
+  },
+  {
+    "Part": "GigFldr1",
+    "Effect": "1 more GigaChip can be added in the folder.",
+    "Bug": "Custom HP Bug",
+    "Location": "Red: Black Earth 2 BMD (1st)",
+    "Compression": null
+  },
+  {
+    "Part": "FstBarr",
+    "Effect": "Start battle with a Barrier (10 HP).",
+    "Bug": "Player Bug",
+    "Location": "White: Castillo HP Program Dealer (6800z)",
+    "Compression": null
+  },
+  {
+    "Part": "Shield",
+    "Effect": "Press B + Left to access a shield that block attacks.",
+    "Bug": "Player Bug",
+    "Location": "Blue: Castillo HP Program Dealer (5500z)",
+    "Compression": null
+  },
+  {
+    "Part": "Reflect",
+    "Effect": "Press B + Left to access a Reflector that block attacks and sends 100 damage ahead.",
+    "Bug": "Player Bug",
+    "Location": "Blue: Undernet 6 Program Dealer (13000z)",
+    "Compression": null
+  },
+  {
+    "Part": "AntiMagc",
+    "Effect": "Press B + Left to set-up an temporary AntiDamage trap, it will overwrite any existing ???? trap.",
+    "Bug": "Player Bug",
+    "Location": "Red: Undernet 4 BugFrag Trader (36 BF)",
+    "Compression": null
+  },
+  {
+    "Part": "FloatShoe",
+    "Effect": "MegaMan ignores Cracked, Swamp, Ice, and Sand panels.",
+    "Bug": "Panel Bug",
+    "Location": "Green: Undernet 6 Program Dealer (8400z)",
+    "Compression": null
+  },
+  {
+    "Part": "AirShoes",
+    "Effect": "MegaMan ignores Broken and Hole panels.",
+    "Bug": "Panel Bug",
+    "Location": "Blue: Undernet 4 BugFrag Trader (22 BF)",
+    "Compression": null
+  },
+  {
+    "Part": "UnderSht",
+    "Effect": "If MegaMan would hit 0 HP, he goes down to 1 instead.",
+    "Bug": "Player Bug",
+    "Location": "White: Start with it",
+    "Compression": null
+  },
+  {
+    "Part": "SneakRun",
+    "Effect": "Certain random encounters based on your HP will not be encountered.",
+    "Bug": "Encounter Bug",
+    "Location": "Yellow :Park Area 3 BugFrag Trader (8 BF)",
+    "Compression": null
+  },
+  {
+    "Part": "OilBody",
+    "Effect": "If possible, changes all random encounters in that area into those with Fire enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Red: Undernet 6 Program Dealer (6200z)",
+    "Compression": null
+  },
+  {
+    "Part": "Fish",
+    "Effect": "If possible, changes all random encounters in that area into those with Aqua enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Blue: Water Comp in Den Dome BMD (1st) - during 3rd tournament.",
+    "Compression": null
+  },
+  {
+    "Part": "Battery",
+    "Effect": "If possible, changes all random encounters in that area into those with Elec enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Yellow: Antenna 4 BMD (1st)",
+    "Compression": null
+  },
+  {
+    "Part": "Jungle",
+    "Effect": "If possible, changes all random encounters in that area into those with Wood enemies.",
+    "Bug": "Encounter Bug",
+    "Location": "Green: NetFrica Area BMD (1st)",
+    "Compression": null
+  },
+  {
+    "Part": "Collect",
+    "Effect": "If possible, the reward from a battle will always be a BattleChip.",
+    "Bug": "Battle Result Bug",
+    "Location": "White: Park Area 3 BugFrag Trader (42 BF)",
+    "Compression": null
+  },
+  {
+    "Part": "Humor",
+    "Effect": "In overworld, press L. MegaMan makes jokes.",
+    "Bug": "Player Bug",
+    "Location": "Pink: Town Area 3 Navi during 3rd tournament (1st)",
+    "Compression": null
+  },
+  {
+    "Part": "BustPack",
+    "Effect": "+3 to Buster's Attack, Speed, and Charge.",
+    "Bug": "Buster Bug",
+    "Location": "Red: Lotto Code (05178924)",
+    "Compression": null
+  },
+  {
+    "Part": "BodyPack",
+    "Effect": "Effects of SuperArmor, UnderShirt, FloatShoes, and AirShoes.",
+    "Bug": "Player Bug",
+    "Location": "Blue: Lotto Code (43494372)",
+    "Compression": null
+  },
+  {
+    "Part": "HubBatc",
+    "Effect": "Effects of AirShoes, FirstBarrier, Custom1, FloatShoes, MegaFolder1, Shield, SuperArmor, and UnderShirt.",
+    "Bug": "Auto Bug: MegaMan's HP is halved.",
+    "Location": "White: Defeat Black Earth 2 MegaManDS (1st) - only can be given if Karma is 500 or above",
+    "Compression": null
+  },
+  {
+    "Part": "BugStop",
+    "Effect": "Removes all bugs in NaviCustomizer.",
+    "Bug": "None",
+    "Location": "White: ACDC Area 1 BMD (1st) - behind Nebula door",
+    "Compression": null
+  },
+  {
+    "Part": "SoulClen",
+    "Effect": "Speeds up obtaining MegaMan's karma points.",
+    "Bug": "None",
+    "Location": "White: Defeat Black Earth 2 MegaManDS (1st)",
+    "Compression": null
+  },
+  {
+    "Part": "Rush",
+    "Effect": "NetworkDuel only; When opponent uses an Invisible chip, takes the chip away and they become paralyzed.Does not trigger if chip is used during screen-dimming cut in.",
+    "Bug": "Doesn't activate",
+    "Location": "Yellow: Lotto Number (73298100)",
+    "Compression": null
+  },
+  {
+    "Part": "Beat",
+    "Effect": "NetworkDuel only; Opponent's first Mega or Giga Chip gets taken away.Does not trigger if chip is used during screen-dimming cut in.",
+    "Bug": "Doesn't activate",
+    "Location": "Blue: Lotto Number (25435428)",
+    "Compression": null
+  },
+  {
+    "Part": "Tango",
+    "Effect": "NetworkDuel only; If MegaMan falls into red outside of a screen-dim, he obtains 300HP and a Barrier100.",
+    "Bug": "Doesn't activate",
+    "Location": "Green: Lotto Number (10170506)",
+    "Compression": null
+  },
+  {
+    "Part": "Attack+1",
+    "Effect": "MegaBuster Attack +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Meteor 4 BMD (1st), ToyRobo 3 BMD (2nd) Pink: Start with itYellow: Undernet 6 BMD",
+    "Compression": null
+  },
+  {
+    "Part": "Speed+1",
+    "Effect": "MegaBuster Speed +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Start with it, Water Comp in Den Dome BMD (2nd) Pink: Computer Comp in Sharo BMD (1st) Yellow: Sharo Area BMD (2nd)",
+    "Compression": null
+  },
+  {
+    "Part": "Charge+1",
+    "Effect": "MegaBuster Charge +1.",
+    "Bug": "Buster Bug",
+    "Location": "White: Park Area 3 BMD (2nd) Pink: ElecTower 1 BMD (3rd), ACDC Area 3 BMD (2nd)Yellow: ToyRobo 3 BMD (1st)",
+    "Compression": null
+  },
+  {
+    "Part": "AttckMAX",
+    "Effect": "MegaBuster Attack becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "White: Undernet 4 BugFrag Trader (72 BF)",
+    "Compression": null
+  },
+  {
+    "Part": "SpeedMAX",
+    "Effect": "MegaBuster Speed becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "White: Undernet 2 BMD",
+    "Compression": null
+  },
+  {
+    "Part": "ChargMAX",
+    "Effect": "MegaBuster Charge becomes 5.",
+    "Bug": "Buster Bug",
+    "Location": "Pink: Castillo Program Dealer (4800z)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+50",
+    "Effect": "Max HP +50!",
+    "Bug": "Battle HP Bug",
+    "Location": "White:  Dog House BMD (2nd)  Pink: ToyRobo 1 BMD (1st)  Yellow: ACDC Area 1 BMD (3rd)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+100",
+    "Effect": "Max HP +100!",
+    "Bug": "Battle HP Bug",
+    "Location": "Pink: Meteor 3 PMD (1st)  Yellow: Castillo Program Dealer (3400z)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+200",
+    "Effect": "Max HP +200!",
+    "Bug": "Battle HP Bug",
+    "Location": "White:  Sharo Area BMD (1st)  Pink: Meteor 4 BMD (2nd)  Yellow: Park Area 2 PMD (3rd)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+300",
+    "Effect": "Max HP +300!",
+    "Bug": "Battle HP Bug",
+    "Location": "White: Undernet 2 BMD (2nd)  Pink: Park Area 3 BugFrag Trader (16 BF) Yellow: ToyRobo 3 BMD (2nd)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+400",
+    "Effect": "Max HP +400!",
+    "Bug": "Battle HP Bug",
+    "Location": "White:   Undernet 1 PMD (3rd)  Pink: Park Area 3 BugFrag Trader (16 BF) Yellow: Town Area 3 PMD (2nd)",
+    "Compression": null
+  },
+  {
+    "Part": "HP+500",
+    "Effect": "Max HP +500!",
+    "Bug": "Battle HP Bug",
+    "Location": "White: Lotto Number (30873642) Pink: Lotto Number (97618739)",
+    "Compression": null
+  }
+]
