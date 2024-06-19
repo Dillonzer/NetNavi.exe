@@ -1,6 +1,6 @@
 # NetNavi.exe
 
-![Language](https://img.shields.io/badge/Discord_Library-discord_py_interactions-blue) ![Hosted](https://img.shields.io/badge/Hosted_On-Railways-black) [![Discord Bots](https://top.gg/api/widget/status/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/servers/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) ![GitHub License](https://img.shields.io/github/license/Dillonzer/cardbuddy) ![GitHub branch status](https://img.shields.io/github/checks-status/dillonzer/cardbuddy/main)
+![Language](https://img.shields.io/badge/Discord_Library-discord_py_interactions-blue) ![Hosted](https://img.shields.io/badge/Hosted_On-Railways-black) [![Discord Bots](https://top.gg/api/widget/status/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/servers/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) ![GitHub License](https://img.shields.io/github/license/Dillonzer/cardbuddy) ![GitHub branch status](https://img.shields.io/github/checks-status/dillonzer/netnavi.exe/main)
 
 Do you ever want to find out more information about a Battle Chip in the Megaman Battle Network games? Well now, you can easily look them up!
 
